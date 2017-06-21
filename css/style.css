@@ -1,0 +1,54 @@
+
+#loading-animation{
+  display:none;
+}
+body{
+  background-color:#eeeeee ;
+  
+}
+@media handheld, screen and (max-width: 576px) {
+ footer{
+  margin-top:130% !important;
+  background: rgba(33,33,33,1);
+}
+}
+  footer{
+  margin-top:31%;
+  background: rgba(33,33,33,1);
+}
+
+.dark{
+  color:white;
+  padding:1%;
+  margin:0;
+}
+.dark:hover{
+  cursor:pointer;
+  color:#4285F4;
+}
+.footer-text{
+  color:white;
+  padding:1%;
+  margin:0;
+}
+.fa-github{
+  color:white;
+}
+.fa-github:hover{
+   color:#4285F4;
+}
+.fa-linkedin-square{
+  color:white;
+}
+.fa-linkedin-square:hover{
+   color:#4285F4;
+}
+.media-icons{
+  padding-top:1%;
+  padding-right:1%;
+}
+.icon-para{
+  margin:0;
+}
+
+
