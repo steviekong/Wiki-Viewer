@@ -1,6 +1,5 @@
 # Wiki Viewer
-
-One Paragraph of project description goes here
+Allows you to search and view wikipeadia articles and view a blurb of the article. 
 
 ## Built With
 
